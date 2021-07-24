@@ -1,0 +1,17 @@
+.to-do {
+  background-color: white;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
+.remove-btn {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin: 5px;
+  background-color: tomato;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
